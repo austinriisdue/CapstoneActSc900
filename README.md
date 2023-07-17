@@ -8,5 +8,5 @@ If you are using this to price insurance or for any other purpose, I accept no l
 
 Thanks for checking out my work
 
-Copyright 2023 Austin Riis-Due
+Copyright 2023 Austin Riis-Due, all rights reserved.
  
