@@ -4,9 +4,12 @@ All programs required to replicate the results presented in Austin Riis-Due's Ac
 No guarantee of how fast this will run on your machine, it was coded by a math major.
 
 Since this is a public repo: 
-If you are using this to price insurance or for any other purpose, I accept no legal responsibility for any financial losses suffered by you or any firm you are a part of. You bear the full risk of using this program for anything other than its intended purpose as an educational resource.
 
-Thanks for checking out my work
+If you are using this to price insurance or for any other financial purpose, I accept no legal responsibility for any losses suffered by you or any firm you are a part of. You bear the full risk of using this program for anything other than its intended purpose as an educational resource.
+
+Moreover, my lawyer told me to say that any use of the material in this site (including any commercial use, reproduction, modification, distribution, republication, display, or performance) without the prior written permission of the author, is strictly prohibited. 
+
+Thanks for checking out my work.
 
 Copyright 2023 Austin Riis-Due, all rights reserved.
  
