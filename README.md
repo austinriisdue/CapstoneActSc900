@@ -3,8 +3,8 @@ All programs required to replicate the results presented in Austin Riis-Due's Ac
 
 No guarantee of how fast this will run on your machine, it was coded by a math major.
 
-Since this is a public repo:
+Since this is a public repo: 
 If you are using this to price insurance or for any other purpose, I accept no legal responsibility for any financial losses suffered by you or any firm you are a part of. You bear the full risk of using this program for anything other than its intended purpose as an educational resource.
 
-Thanks for checking out my work,
--Austin
+Thanks for checking out my work - Austin
+ 
